@@ -29,6 +29,8 @@ ul.navbar-nav li.nav-item a.nav-link:hover{
 	color:white ;
 }
 
+
+
 .update-marg{
 	margin-top: 5rem;
 
@@ -134,4 +136,31 @@ hr{
 }
 .marg-row{
 	padding-top: 60px;
+}
+.footr-bottom{
+	
+   
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgba(3, 4, 28, 0.5);
+    padding: 35px;
+    background-image: url("picture10.jpg");
+
+}
+.copy-div{
+	color:white;
+}
+
+.term-div p a:hover{
+	color: black;
+}
+
+.term-div p, a, span {
+	color: white;
 }
